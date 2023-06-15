@@ -25,7 +25,7 @@ function AppHeader() {
         width={100}
         src={logo}
       ></Image>
-      <Typography.Title>Administracion</Typography.Title>
+      <Typography.Title>Administración</Typography.Title>
       <Space>
         <Badge count={comments.length} dot>
           <MailOutlined
